@@ -1,1 +1,3 @@
 # JSKurs
+
+JS ist cool!
