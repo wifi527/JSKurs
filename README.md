@@ -1,3 +1,3 @@
-# JSKurs
+# JSKurs DEV
 
 JS ist cool!
